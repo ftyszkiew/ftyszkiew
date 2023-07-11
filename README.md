@@ -2,7 +2,7 @@
 ✨ I'm Working on a Site called Dice<br>🐲  I am looking for people to help me with my projects<br>☕ I am currently learning javascript<br>💭 Ask me don't be shy <br>😎 Fun fact: I'm lazy
 
 
-                                                                                              Franciszek Tyszkiewicz
+                                                                                                              ##Franciszek Tyszkiewicz
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Ftyszkiew) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ftyszkiew) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ftyszkiew) 
 
 # 💻 Tech Stack:
