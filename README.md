@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💎 About Me:
 ✨ I'm Working on a Site called Dice<br>🐲  I am looking for people to help me with my projects<br>☕ I am currently learning javascript<br>💭 Ask me don't be shy <br>😎 Fun fact: I'm lazy
 
 
