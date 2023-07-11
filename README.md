@@ -25,7 +25,7 @@
 [![](https://visitcount.itsvg.in/api?id=Ftyszkiew&icon=2&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ftyszkiew) 
+  [![Kup mi kafke proszę!](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ftyszkiew) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
